@@ -1,0 +1,54 @@
+nav ul li{
+    display: inline;
+    padding: 80px;
+}
+nav ul li a{
+    color:aliceblue;
+    text-decoration:none;
+}
+h1{
+    text-align: center;
+    color:aliceblue;
+    padding: 0px;
+}
+header{
+    background-color:rgb(61, 168, 125);
+}
+body{
+    background-color:papayawhip;
+}
+#Home{
+    text-align: center;
+
+}
+img{
+    margin-left: 30%;
+    border-radius:2px;
+}
+#Bio{
+    text-size-adjust: 10px;
+    text-align: center;
+}
+#portfolio{
+    margin:0px 45px 0px 45px;
+    border-radius:50px;
+    text-align: center;
+    padding: 45px;
+    background-color:pink;
+}
+#Skills{
+    
+    text-align: center;
+    display: inline;
+    padding: 50px;
+}
+#Contact{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color:aliceblue;
+    background-color:rgb(106, 137, 34);
+    padding: 250px;
+    padding: 20px;
+}
